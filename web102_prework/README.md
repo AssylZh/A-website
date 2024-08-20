@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Searching option which is in the challenge 3 code!
+* [ ] Searching option which is in the challenge 3 code.
 
 ## Video Walkthrough
 
