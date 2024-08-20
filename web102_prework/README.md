@@ -28,7 +28,7 @@ https://drive.google.com/file/d/15l3WJW7eMzD128UsAZ4qkmdqHNkMXzO_/view?usp=shari
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Assyl Zhanuzak]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
