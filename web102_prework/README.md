@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-(https://drive.google.com/file/d/15l3WJW7eMzD128UsAZ4qkmdqHNkMXzO_/view?usp=sharing)
+https://drive.google.com/file/d/15l3WJW7eMzD128UsAZ4qkmdqHNkMXzO_/view?usp=sharing
 
 
 
